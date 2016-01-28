@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crary Math</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="crazy_math">CRAZY MATH</string>
+    <string name="game">GAME</string>
+    <string name="best_score">BEST SCORE:</string>
+    <string name="score">SCORE: 0</string>
+    <string name="best">BEST:</string>
+    <string name="play">PLAY</string>
+    <string name="more">MORE</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="your_score">YOUR SCORE</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="home">HOME</string>
+
+</resources>

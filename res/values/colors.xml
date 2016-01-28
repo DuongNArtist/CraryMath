@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="backg">#37384D</color>
+    <color name="light_red">#EE474F</color>
+    <color name="dark_red">#A4404E</color>
+    <color name="light_green">#9FCC3E</color>
+    <color name="dark_green">#738E44</color>
+    <color name="light_yellow">#FFBF00</color>
+    <color name="dark_yellow">#AF891E</color>
+    <color name="text">#FFFFFF</color>
+
+</resources>
